@@ -1,0 +1,2 @@
+# LocalRepoProject
+Git Project
